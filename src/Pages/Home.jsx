@@ -7,6 +7,7 @@ function Home() {
       <Container fluid className="Home-container justify-content-center  d-flex">
         <Row>
           <Col className="text-center  mt-5">
+          <h1>Hello narendra</h1>
             <h1 className="text-light">Find the Perfect Place</h1>
             <h1 className="text-light">to Call Home</h1>
             <p className="text-light custom-line-height mt-4">

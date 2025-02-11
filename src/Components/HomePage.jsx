@@ -5,6 +5,7 @@ import Home from '../Pages/Home'
 function HomePage() {
   return (
   <>
+ 
   <Home/>
  
 
