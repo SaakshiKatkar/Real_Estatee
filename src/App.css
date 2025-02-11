@@ -1,0 +1,11 @@
+.Home-container {
+    background-image: url("/Bg.png");
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+  }
+/* In your App.css or a custom CSS file */
+.custom-line-height {
+    line-height: 0.5; /* Adjust this value as needed */
+  }
+    
